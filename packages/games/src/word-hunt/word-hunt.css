@@ -1,0 +1,22 @@
+/* layout */
+wordls board {
+  @apply w-full;
+}
+wordle board > span {
+  @apply flex min-h-14 min-w-14 items-center justify-center md:min-h-20 md:min-w-20;
+  @apply text-2xl font-bold uppercase md:text-4xl;
+}
+
+/* theming */
+wordle board > span {
+  @apply rounded border border-gray-500 text-white;
+}
+wordle board > .correct {
+  @apply border-none bg-green-600 text-white;
+}
+wordle board > .present {
+  @apply border-none bg-yellow-600 text-yellow-100;
+}
+wordle board > .absent {
+  @apply border-none bg-gray-500 text-gray-200;
+}

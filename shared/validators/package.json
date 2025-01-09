@@ -1,0 +1,41 @@
+{
+  "name": "validators",
+  "version": "1.0.0-next.100",
+  "description": "Custom matchers for vitest.",
+  "keywords": [
+    "vitest",
+    "matchers",
+    "validators",
+    "svelte"
+  ],
+  "author": "Jerry Thomas<me@jerrythomas.name>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@vitest/expect": "^2.1.8",
+    "ramda": "^0.30.1"
+  },
+  "exports": {
+    "./package.json": "./package.json",
+    "./mocks": "./src/mocks/index.js",
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./src/index.js"
+    }
+  },
+  "scripts": {
+    "format": "prettier --write .",
+    "lint": "eslint --fix .",
+    "latest": "pnpm upgrade --latest",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "@testing-library/svelte": "^5.2.6",
+    "@types/ramda": "^0.30.2",
+    "@vitest/coverage-v8": "^2.1.8",
+    "shared-config": "workspace:*",
+    "svelte": "^5.10.0",
+    "vitest": "^2.1.8"
+  }
+}

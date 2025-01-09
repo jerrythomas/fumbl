@@ -1,0 +1,46 @@
+{
+  "name": "seichou",
+  "version": "1.0.0-next.0",
+  "description": "",
+  "main": "index.js",
+  "packageManager": "pnpm@9.10.0",
+  "scripts": {
+    "clean": "find . -name 'coverage' -o -name 'vitest*timestamp*' -o -name '.vercel' | xargs rm -rf",
+    "prepublishOnly": "turbo run prepublishOnly",
+    "build": "pnpm clean && turbo run build",
+    "test": "turbo run test:ci",
+    "coverage": "turbo run coverage",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "prepare": "husky",
+    "latest": "pnpm clean && pnpm upgrade --latest && turbo run latest",
+    "check-git": "if [ -n \"$(git status --porcelain)\" ]; then echo 'You have uncommitted changes or untracked files.' && exit 1; fi",
+    "bump": "pnpm check-git && bumpp --no-push",
+    "bump:next": "pnpm check-git && bumpp --preid=next --no-push",
+    "release": "turbo run release",
+    "upgrade:all": "./scripts/upgrade.sh && pnpm upgrade --latest",
+    "coverage:lcov": "pnpm coverage && ./scripts/merge-lcov.sh"
+  },
+  "author": "Jerry Thomas<me@jerrythomas.name>",
+  "license": "MIT",
+  "devDependencies": {
+    "bumpp": "^9.9.0",
+    "eslint": "^9.16.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-shared": "workspace:*",
+    "front-matter": "^4.0.2",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.2.11",
+    "madge": "^8.0.0",
+    "prettier": "3.4.2",
+    "prettier-plugin-svelte": "^3.3.2",
+    "prettier-plugin-tailwindcss": "^0.6.9"
+  },
+  "lint-staged": {
+    "*.{js,svelte}": "eslint --cache --fix",
+    "*.{js,svelte,md,json}": "prettier --write"
+  },
+  "dependencies": {
+    "turbo": "^2.3.3"
+  }
+}

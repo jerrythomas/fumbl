@@ -1,0 +1,6 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "helloWorld": "नमस्ते, {name} !",
+  "welcome": "{app} में आपका स्वागत है!",
+  "greeting": "अच्छा {timeOfDay} , {name} !"
+}

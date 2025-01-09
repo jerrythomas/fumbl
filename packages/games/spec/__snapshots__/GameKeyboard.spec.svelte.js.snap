@@ -1,0 +1,2780 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`GameKeyboard > should render the default keyboard 1`] = `
+<div>
+  <keyboard
+    class="grid w-full grid-rows-3 gap-1 p-2"
+  >
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="q"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="q"
+        role="button"
+        tabindex="0"
+      >
+        q
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="w"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="w"
+        role="button"
+        tabindex="0"
+      >
+        w
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="e"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="e"
+        role="button"
+        tabindex="0"
+      >
+        e
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="r"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="r"
+        role="button"
+        tabindex="0"
+      >
+        r
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="t"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="t"
+        role="button"
+        tabindex="0"
+      >
+        t
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="y"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="y"
+        role="button"
+        tabindex="0"
+      >
+        y
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="u"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="u"
+        role="button"
+        tabindex="0"
+      >
+        u
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="i"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="i"
+        role="button"
+        tabindex="0"
+      >
+        i
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="o"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="o"
+        role="button"
+        tabindex="0"
+      >
+        o
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="p"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="p"
+        role="button"
+        tabindex="0"
+      >
+        p
+        <!---->
+      </key>
+      
+    </key-row>
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <span
+        class="col-span-1"
+      />
+      <!---->
+       
+      <key
+        aria-label="a"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="a"
+        role="button"
+        tabindex="0"
+      >
+        a
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="s"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="s"
+        role="button"
+        tabindex="0"
+      >
+        s
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="d"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="d"
+        role="button"
+        tabindex="0"
+      >
+        d
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="f"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="f"
+        role="button"
+        tabindex="0"
+      >
+        f
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="g"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="g"
+        role="button"
+        tabindex="0"
+      >
+        g
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="h"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="h"
+        role="button"
+        tabindex="0"
+      >
+        h
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="j"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="j"
+        role="button"
+        tabindex="0"
+      >
+        j
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="k"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="k"
+        role="button"
+        tabindex="0"
+      >
+        k
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="l"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="l"
+        role="button"
+        tabindex="0"
+      >
+        l
+        <!---->
+      </key>
+      
+    </key-row>
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="Enter"
+        class="flex items-center justify-center rounded svelte-1jhvdmm wide"
+        data-key="Enter"
+        role="button"
+        tabindex="0"
+      >
+        <i
+          class="key-enter svelte-1jhvdmm"
+        />
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="z"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="z"
+        role="button"
+        tabindex="0"
+      >
+        z
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="x"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="x"
+        role="button"
+        tabindex="0"
+      >
+        x
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="c"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="c"
+        role="button"
+        tabindex="0"
+      >
+        c
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="v"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="v"
+        role="button"
+        tabindex="0"
+      >
+        v
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="b"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="b"
+        role="button"
+        tabindex="0"
+      >
+        b
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="n"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="n"
+        role="button"
+        tabindex="0"
+      >
+        n
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="m"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="m"
+        role="button"
+        tabindex="0"
+      >
+        m
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="Backspace"
+        class="flex items-center justify-center rounded svelte-1jhvdmm wide"
+        data-key="Backspace"
+        role="button"
+        tabindex="0"
+      >
+        <i
+          class="key-backspace svelte-1jhvdmm"
+        />
+        <!---->
+      </key>
+      
+    </key-row>
+    
+  </keyboard>
+  
+</div>
+`;
+
+exports[`GameKeyboard > should render with disabled keys 1`] = `
+<div>
+  <keyboard
+    class="grid w-full grid-rows-3 gap-1 p-2"
+  >
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="q"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="q"
+        role="button"
+        tabindex="0"
+      >
+        q
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="w"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="w"
+        role="button"
+        tabindex="0"
+      >
+        w
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="e"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="e"
+        role="button"
+        tabindex="0"
+      >
+        e
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="r"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="r"
+        role="button"
+        tabindex="0"
+      >
+        r
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="t"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="t"
+        role="button"
+        tabindex="0"
+      >
+        t
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="y"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="y"
+        role="button"
+        tabindex="0"
+      >
+        y
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="u"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="u"
+        role="button"
+        tabindex="0"
+      >
+        u
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="i"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="i"
+        role="button"
+        tabindex="0"
+      >
+        i
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="o"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="o"
+        role="button"
+        tabindex="0"
+      >
+        o
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="p"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="p"
+        role="button"
+        tabindex="0"
+      >
+        p
+        <!---->
+      </key>
+      
+    </key-row>
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <span
+        class="col-span-1"
+      />
+      <!---->
+       
+      <key
+        aria-label="a"
+        class="flex items-center justify-center rounded svelte-1jhvdmm disabled"
+        data-key="a"
+        role="button"
+        tabindex="-1"
+      >
+        a
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="s"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="s"
+        role="button"
+        tabindex="0"
+      >
+        s
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="d"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="d"
+        role="button"
+        tabindex="0"
+      >
+        d
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="f"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="f"
+        role="button"
+        tabindex="0"
+      >
+        f
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="g"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="g"
+        role="button"
+        tabindex="0"
+      >
+        g
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="h"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="h"
+        role="button"
+        tabindex="0"
+      >
+        h
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="j"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="j"
+        role="button"
+        tabindex="0"
+      >
+        j
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="k"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="k"
+        role="button"
+        tabindex="0"
+      >
+        k
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="l"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="l"
+        role="button"
+        tabindex="0"
+      >
+        l
+        <!---->
+      </key>
+      
+    </key-row>
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="Enter"
+        class="flex items-center justify-center rounded svelte-1jhvdmm wide"
+        data-key="Enter"
+        role="button"
+        tabindex="0"
+      >
+        <i
+          class="key-enter svelte-1jhvdmm"
+        />
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="z"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="z"
+        role="button"
+        tabindex="0"
+      >
+        z
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="x"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="x"
+        role="button"
+        tabindex="0"
+      >
+        x
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="c"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="c"
+        role="button"
+        tabindex="0"
+      >
+        c
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="v"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="v"
+        role="button"
+        tabindex="0"
+      >
+        v
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="b"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="b"
+        role="button"
+        tabindex="0"
+      >
+        b
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="n"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="n"
+        role="button"
+        tabindex="0"
+      >
+        n
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="m"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="m"
+        role="button"
+        tabindex="0"
+      >
+        m
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="Backspace"
+        class="flex items-center justify-center rounded svelte-1jhvdmm wide"
+        data-key="Backspace"
+        role="button"
+        tabindex="0"
+      >
+        <i
+          class="key-backspace svelte-1jhvdmm"
+        />
+        <!---->
+      </key>
+      
+    </key-row>
+    
+  </keyboard>
+  
+</div>
+`;
+
+exports[`GameKeyboard > should render with disabled keys 2`] = `
+<div>
+  <keyboard
+    class="grid w-full grid-rows-3 gap-1 p-2"
+  >
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="q"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="q"
+        role="button"
+        tabindex="0"
+      >
+        q
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="w"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="w"
+        role="button"
+        tabindex="0"
+      >
+        w
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="e"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="e"
+        role="button"
+        tabindex="0"
+      >
+        e
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="r"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="r"
+        role="button"
+        tabindex="0"
+      >
+        r
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="t"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="t"
+        role="button"
+        tabindex="0"
+      >
+        t
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="y"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="y"
+        role="button"
+        tabindex="0"
+      >
+        y
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="u"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="u"
+        role="button"
+        tabindex="0"
+      >
+        u
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="i"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="i"
+        role="button"
+        tabindex="0"
+      >
+        i
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="o"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="o"
+        role="button"
+        tabindex="0"
+      >
+        o
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="p"
+        class="flex items-center justify-center rounded svelte-1jhvdmm disabled"
+        data-key="p"
+        role="button"
+        tabindex="-1"
+      >
+        p
+        <!---->
+      </key>
+      
+    </key-row>
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <span
+        class="col-span-1"
+      />
+      <!---->
+       
+      <key
+        aria-label="a"
+        class="flex items-center justify-center rounded svelte-1jhvdmm disabled"
+        data-key="a"
+        role="button"
+        tabindex="-1"
+      >
+        a
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="s"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="s"
+        role="button"
+        tabindex="0"
+      >
+        s
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="d"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="d"
+        role="button"
+        tabindex="0"
+      >
+        d
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="f"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="f"
+        role="button"
+        tabindex="0"
+      >
+        f
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="g"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="g"
+        role="button"
+        tabindex="0"
+      >
+        g
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="h"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="h"
+        role="button"
+        tabindex="0"
+      >
+        h
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="j"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="j"
+        role="button"
+        tabindex="0"
+      >
+        j
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="k"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="k"
+        role="button"
+        tabindex="0"
+      >
+        k
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="l"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="l"
+        role="button"
+        tabindex="0"
+      >
+        l
+        <!---->
+      </key>
+      
+    </key-row>
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="Enter"
+        class="flex items-center justify-center rounded svelte-1jhvdmm wide"
+        data-key="Enter"
+        role="button"
+        tabindex="0"
+      >
+        <i
+          class="key-enter svelte-1jhvdmm"
+        />
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="z"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="z"
+        role="button"
+        tabindex="0"
+      >
+        z
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="x"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="x"
+        role="button"
+        tabindex="0"
+      >
+        x
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="c"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="c"
+        role="button"
+        tabindex="0"
+      >
+        c
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="v"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="v"
+        role="button"
+        tabindex="0"
+      >
+        v
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="b"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="b"
+        role="button"
+        tabindex="0"
+      >
+        b
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="n"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="n"
+        role="button"
+        tabindex="0"
+      >
+        n
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="m"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="m"
+        role="button"
+        tabindex="0"
+      >
+        m
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="Backspace"
+        class="flex items-center justify-center rounded svelte-1jhvdmm wide"
+        data-key="Backspace"
+        role="button"
+        tabindex="0"
+      >
+        <i
+          class="key-backspace svelte-1jhvdmm"
+        />
+        <!---->
+      </key>
+      
+    </key-row>
+    
+  </keyboard>
+  
+</div>
+`;
+
+exports[`GameKeyboard > should render with highlighted keys 1`] = `
+<div>
+  <keyboard
+    class="grid w-full grid-rows-3 gap-1 p-2"
+  >
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="q"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="q"
+        role="button"
+        tabindex="0"
+      >
+        q
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="w"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="w"
+        role="button"
+        tabindex="0"
+      >
+        w
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="e"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="e"
+        role="button"
+        tabindex="0"
+      >
+        e
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="r"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="r"
+        role="button"
+        tabindex="0"
+      >
+        r
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="t"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="t"
+        role="button"
+        tabindex="0"
+      >
+        t
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="y"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="y"
+        role="button"
+        tabindex="0"
+      >
+        y
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="u"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="u"
+        role="button"
+        tabindex="0"
+      >
+        u
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="i"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="i"
+        role="button"
+        tabindex="0"
+      >
+        i
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="o"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="o"
+        role="button"
+        tabindex="0"
+      >
+        o
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="p"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="p"
+        role="button"
+        tabindex="0"
+      >
+        p
+        <!---->
+      </key>
+      
+    </key-row>
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <span
+        class="col-span-1"
+      />
+      <!---->
+       
+      <key
+        aria-label="a"
+        class="flex items-center justify-center rounded svelte-1jhvdmm highlighted"
+        data-key="a"
+        role="button"
+        tabindex="0"
+      >
+        a
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="s"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="s"
+        role="button"
+        tabindex="0"
+      >
+        s
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="d"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="d"
+        role="button"
+        tabindex="0"
+      >
+        d
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="f"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="f"
+        role="button"
+        tabindex="0"
+      >
+        f
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="g"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="g"
+        role="button"
+        tabindex="0"
+      >
+        g
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="h"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="h"
+        role="button"
+        tabindex="0"
+      >
+        h
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="j"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="j"
+        role="button"
+        tabindex="0"
+      >
+        j
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="k"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="k"
+        role="button"
+        tabindex="0"
+      >
+        k
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="l"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="l"
+        role="button"
+        tabindex="0"
+      >
+        l
+        <!---->
+      </key>
+      
+    </key-row>
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="Enter"
+        class="flex items-center justify-center rounded svelte-1jhvdmm wide"
+        data-key="Enter"
+        role="button"
+        tabindex="0"
+      >
+        <i
+          class="key-enter svelte-1jhvdmm"
+        />
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="z"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="z"
+        role="button"
+        tabindex="0"
+      >
+        z
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="x"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="x"
+        role="button"
+        tabindex="0"
+      >
+        x
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="c"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="c"
+        role="button"
+        tabindex="0"
+      >
+        c
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="v"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="v"
+        role="button"
+        tabindex="0"
+      >
+        v
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="b"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="b"
+        role="button"
+        tabindex="0"
+      >
+        b
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="n"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="n"
+        role="button"
+        tabindex="0"
+      >
+        n
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="m"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="m"
+        role="button"
+        tabindex="0"
+      >
+        m
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="Backspace"
+        class="flex items-center justify-center rounded svelte-1jhvdmm wide"
+        data-key="Backspace"
+        role="button"
+        tabindex="0"
+      >
+        <i
+          class="key-backspace svelte-1jhvdmm"
+        />
+        <!---->
+      </key>
+      
+    </key-row>
+    
+  </keyboard>
+  
+</div>
+`;
+
+exports[`GameKeyboard > should render with highlighted keys 2`] = `
+<div>
+  <keyboard
+    class="grid w-full grid-rows-3 gap-1 p-2"
+  >
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="q"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="q"
+        role="button"
+        tabindex="0"
+      >
+        q
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="w"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="w"
+        role="button"
+        tabindex="0"
+      >
+        w
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="e"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="e"
+        role="button"
+        tabindex="0"
+      >
+        e
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="r"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="r"
+        role="button"
+        tabindex="0"
+      >
+        r
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="t"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="t"
+        role="button"
+        tabindex="0"
+      >
+        t
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="y"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="y"
+        role="button"
+        tabindex="0"
+      >
+        y
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="u"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="u"
+        role="button"
+        tabindex="0"
+      >
+        u
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="i"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="i"
+        role="button"
+        tabindex="0"
+      >
+        i
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="o"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="o"
+        role="button"
+        tabindex="0"
+      >
+        o
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="p"
+        class="flex items-center justify-center rounded svelte-1jhvdmm highlighted"
+        data-key="p"
+        role="button"
+        tabindex="0"
+      >
+        p
+        <!---->
+      </key>
+      
+    </key-row>
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <span
+        class="col-span-1"
+      />
+      <!---->
+       
+      <key
+        aria-label="a"
+        class="flex items-center justify-center rounded svelte-1jhvdmm highlighted"
+        data-key="a"
+        role="button"
+        tabindex="0"
+      >
+        a
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="s"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="s"
+        role="button"
+        tabindex="0"
+      >
+        s
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="d"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="d"
+        role="button"
+        tabindex="0"
+      >
+        d
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="f"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="f"
+        role="button"
+        tabindex="0"
+      >
+        f
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="g"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="g"
+        role="button"
+        tabindex="0"
+      >
+        g
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="h"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="h"
+        role="button"
+        tabindex="0"
+      >
+        h
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="j"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="j"
+        role="button"
+        tabindex="0"
+      >
+        j
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="k"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="k"
+        role="button"
+        tabindex="0"
+      >
+        k
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="l"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="l"
+        role="button"
+        tabindex="0"
+      >
+        l
+        <!---->
+      </key>
+      
+    </key-row>
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="Enter"
+        class="flex items-center justify-center rounded svelte-1jhvdmm wide"
+        data-key="Enter"
+        role="button"
+        tabindex="0"
+      >
+        <i
+          class="key-enter svelte-1jhvdmm"
+        />
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="z"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="z"
+        role="button"
+        tabindex="0"
+      >
+        z
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="x"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="x"
+        role="button"
+        tabindex="0"
+      >
+        x
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="c"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="c"
+        role="button"
+        tabindex="0"
+      >
+        c
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="v"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="v"
+        role="button"
+        tabindex="0"
+      >
+        v
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="b"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="b"
+        role="button"
+        tabindex="0"
+      >
+        b
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="n"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="n"
+        role="button"
+        tabindex="0"
+      >
+        n
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="m"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="m"
+        role="button"
+        tabindex="0"
+      >
+        m
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="Backspace"
+        class="flex items-center justify-center rounded svelte-1jhvdmm wide"
+        data-key="Backspace"
+        role="button"
+        tabindex="0"
+      >
+        <i
+          class="key-backspace svelte-1jhvdmm"
+        />
+        <!---->
+      </key>
+      
+    </key-row>
+    
+  </keyboard>
+  
+</div>
+`;
+
+exports[`GameKeyboard > should update disabled and highlighted keys 1`] = `
+<div>
+  <keyboard
+    class="grid w-full grid-rows-3 gap-1 p-2"
+  >
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="q"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="q"
+        role="button"
+        tabindex="0"
+      >
+        q
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="w"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="w"
+        role="button"
+        tabindex="0"
+      >
+        w
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="e"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="e"
+        role="button"
+        tabindex="0"
+      >
+        e
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="r"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="r"
+        role="button"
+        tabindex="0"
+      >
+        r
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="t"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="t"
+        role="button"
+        tabindex="0"
+      >
+        t
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="y"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="y"
+        role="button"
+        tabindex="0"
+      >
+        y
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="u"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="u"
+        role="button"
+        tabindex="0"
+      >
+        u
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="i"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="i"
+        role="button"
+        tabindex="0"
+      >
+        i
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="o"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="o"
+        role="button"
+        tabindex="0"
+      >
+        o
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="p"
+        class="flex items-center justify-center rounded svelte-1jhvdmm highlighted"
+        data-key="p"
+        role="button"
+        tabindex="0"
+      >
+        p
+        <!---->
+      </key>
+      
+    </key-row>
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <span
+        class="col-span-1"
+      />
+      <!---->
+       
+      <key
+        aria-label="a"
+        class="flex items-center justify-center rounded svelte-1jhvdmm disabled"
+        data-key="a"
+        role="button"
+        tabindex="-1"
+      >
+        a
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="s"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="s"
+        role="button"
+        tabindex="0"
+      >
+        s
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="d"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="d"
+        role="button"
+        tabindex="0"
+      >
+        d
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="f"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="f"
+        role="button"
+        tabindex="0"
+      >
+        f
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="g"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="g"
+        role="button"
+        tabindex="0"
+      >
+        g
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="h"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="h"
+        role="button"
+        tabindex="0"
+      >
+        h
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="j"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="j"
+        role="button"
+        tabindex="0"
+      >
+        j
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="k"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="k"
+        role="button"
+        tabindex="0"
+      >
+        k
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="l"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="l"
+        role="button"
+        tabindex="0"
+      >
+        l
+        <!---->
+      </key>
+      
+    </key-row>
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="Enter"
+        class="flex items-center justify-center rounded svelte-1jhvdmm wide"
+        data-key="Enter"
+        role="button"
+        tabindex="0"
+      >
+        <i
+          class="key-enter svelte-1jhvdmm"
+        />
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="z"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="z"
+        role="button"
+        tabindex="0"
+      >
+        z
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="x"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="x"
+        role="button"
+        tabindex="0"
+      >
+        x
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="c"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="c"
+        role="button"
+        tabindex="0"
+      >
+        c
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="v"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="v"
+        role="button"
+        tabindex="0"
+      >
+        v
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="b"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="b"
+        role="button"
+        tabindex="0"
+      >
+        b
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="n"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="n"
+        role="button"
+        tabindex="0"
+      >
+        n
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="m"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="m"
+        role="button"
+        tabindex="0"
+      >
+        m
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="Backspace"
+        class="flex items-center justify-center rounded svelte-1jhvdmm wide"
+        data-key="Backspace"
+        role="button"
+        tabindex="0"
+      >
+        <i
+          class="key-backspace svelte-1jhvdmm"
+        />
+        <!---->
+      </key>
+      
+    </key-row>
+    
+  </keyboard>
+  
+</div>
+`;
+
+exports[`GameKeyboard > should update disabled and highlighted keys 2`] = `
+<div>
+  <keyboard
+    class="grid w-full grid-rows-3 gap-1 p-2"
+  >
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="q"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="q"
+        role="button"
+        tabindex="0"
+      >
+        q
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="w"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="w"
+        role="button"
+        tabindex="0"
+      >
+        w
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="e"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="e"
+        role="button"
+        tabindex="0"
+      >
+        e
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="r"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="r"
+        role="button"
+        tabindex="0"
+      >
+        r
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="t"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="t"
+        role="button"
+        tabindex="0"
+      >
+        t
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="y"
+        class="flex items-center justify-center rounded svelte-1jhvdmm disabled"
+        data-key="y"
+        role="button"
+        tabindex="-1"
+      >
+        y
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="u"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="u"
+        role="button"
+        tabindex="0"
+      >
+        u
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="i"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="i"
+        role="button"
+        tabindex="0"
+      >
+        i
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="o"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="o"
+        role="button"
+        tabindex="0"
+      >
+        o
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="p"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="p"
+        role="button"
+        tabindex="0"
+      >
+        p
+        <!---->
+      </key>
+      
+    </key-row>
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <span
+        class="col-span-1"
+      />
+      <!---->
+       
+      <key
+        aria-label="a"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="a"
+        role="button"
+        tabindex="0"
+      >
+        a
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="s"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="s"
+        role="button"
+        tabindex="0"
+      >
+        s
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="d"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="d"
+        role="button"
+        tabindex="0"
+      >
+        d
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="f"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="f"
+        role="button"
+        tabindex="0"
+      >
+        f
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="g"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="g"
+        role="button"
+        tabindex="0"
+      >
+        g
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="h"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="h"
+        role="button"
+        tabindex="0"
+      >
+        h
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="j"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="j"
+        role="button"
+        tabindex="0"
+      >
+        j
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="k"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="k"
+        role="button"
+        tabindex="0"
+      >
+        k
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="l"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="l"
+        role="button"
+        tabindex="0"
+      >
+        l
+        <!---->
+      </key>
+      
+    </key-row>
+    <key-row
+      class="grid-cols-20 grid gap-1"
+    >
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="Enter"
+        class="flex items-center justify-center rounded svelte-1jhvdmm wide"
+        data-key="Enter"
+        role="button"
+        tabindex="0"
+      >
+        <i
+          class="key-enter svelte-1jhvdmm"
+        />
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="z"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="z"
+        role="button"
+        tabindex="0"
+      >
+        z
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="x"
+        class="flex items-center justify-center rounded svelte-1jhvdmm highlighted"
+        data-key="x"
+        role="button"
+        tabindex="0"
+      >
+        x
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="c"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="c"
+        role="button"
+        tabindex="0"
+      >
+        c
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="v"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="v"
+        role="button"
+        tabindex="0"
+      >
+        v
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="b"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="b"
+        role="button"
+        tabindex="0"
+      >
+        b
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="n"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="n"
+        role="button"
+        tabindex="0"
+      >
+        n
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="m"
+        class="flex items-center justify-center rounded svelte-1jhvdmm"
+        data-key="m"
+        role="button"
+        tabindex="0"
+      >
+        m
+        <!---->
+      </key>
+      <!---->
+      <!---->
+       
+      <key
+        aria-label="Backspace"
+        class="flex items-center justify-center rounded svelte-1jhvdmm wide"
+        data-key="Backspace"
+        role="button"
+        tabindex="0"
+      >
+        <i
+          class="key-backspace svelte-1jhvdmm"
+        />
+        <!---->
+      </key>
+      
+    </key-row>
+    
+  </keyboard>
+  
+</div>
+`;

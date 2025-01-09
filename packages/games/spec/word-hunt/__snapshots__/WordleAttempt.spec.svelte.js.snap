@@ -1,0 +1,228 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`WordleAttempt > should remove a letter 1`] = `
+<div>
+  <!---->
+  <span
+    class="svelte-14s21s1"
+  >
+    a
+  </span>
+  <span
+    class="svelte-14s21s1"
+  >
+    p
+  </span>
+  <span
+    class="svelte-14s21s1"
+  >
+    p
+  </span>
+  <span
+    class="svelte-14s21s1"
+  >
+    l
+  </span>
+  <!---->
+   
+  <!---->
+  <span
+    class="svelte-14s21s1"
+  />
+  
+  <!---->
+  
+</div>
+`;
+
+exports[`WordleAttempt > should render a row with full word 1`] = `
+<div>
+  <!---->
+  <span
+    class="svelte-14s21s1"
+  >
+    a
+  </span>
+  <span
+    class="svelte-14s21s1"
+  >
+    p
+  </span>
+  <span
+    class="svelte-14s21s1"
+  >
+    p
+  </span>
+  <span
+    class="svelte-14s21s1"
+  >
+    l
+  </span>
+  <span
+    class="svelte-14s21s1"
+  >
+    e
+  </span>
+  <!---->
+   
+  <!---->
+  
+</div>
+`;
+
+exports[`WordleAttempt > should render a row with partial word 1`] = `
+<div>
+  <!---->
+  <span
+    class="svelte-14s21s1"
+  >
+    a
+  </span>
+  <!---->
+   
+  <!---->
+  <span
+    class="svelte-14s21s1"
+  />
+  <span
+    class="svelte-14s21s1"
+  />
+  <span
+    class="svelte-14s21s1"
+  />
+  <span
+    class="svelte-14s21s1"
+  />
+  
+  <!---->
+  
+</div>
+`;
+
+exports[`WordleAttempt > should render a row with partial word 2`] = `
+<div>
+  <!---->
+  <span
+    class="svelte-14s21s1"
+  >
+    a
+  </span>
+  <span
+    class="svelte-14s21s1"
+  >
+    p
+  </span>
+  <!---->
+   
+  <!---->
+  <span
+    class="svelte-14s21s1"
+  />
+  <span
+    class="svelte-14s21s1"
+  />
+  <span
+    class="svelte-14s21s1"
+  />
+  
+  <!---->
+  
+</div>
+`;
+
+exports[`WordleAttempt > should render an empty row 1`] = `
+<div>
+  <!---->
+  <!---->
+   
+  <!---->
+  <span
+    class="svelte-14s21s1"
+  />
+  <span
+    class="svelte-14s21s1"
+  />
+  <span
+    class="svelte-14s21s1"
+  />
+  <span
+    class="svelte-14s21s1"
+  />
+  <span
+    class="svelte-14s21s1"
+  />
+  
+  <!---->
+  
+</div>
+`;
+
+exports[`WordleAttempt > should update the styles on validation 1`] = `
+<div>
+  <!---->
+  <span
+    class="svelte-14s21s1"
+  >
+    g
+  </span>
+  <span
+    class="svelte-14s21s1"
+  >
+    r
+  </span>
+  <span
+    class="svelte-14s21s1"
+  >
+    a
+  </span>
+  <span
+    class="svelte-14s21s1"
+  >
+    p
+  </span>
+  <span
+    class="svelte-14s21s1"
+  >
+    e
+  </span>
+  <!---->
+   
+  <!---->
+  
+</div>
+`;
+
+exports[`WordleAttempt > should update the styles on validation 2`] = `
+<div>
+  <!---->
+  <span
+    class="svelte-14s21s1 missing"
+  >
+    g
+  </span>
+  <span
+    class="svelte-14s21s1 missing"
+  >
+    r
+  </span>
+  <span
+    class="svelte-14s21s1 close"
+  >
+    a
+  </span>
+  <span
+    class="svelte-14s21s1 close"
+  >
+    p
+  </span>
+  <span
+    class="svelte-14s21s1 exact"
+  >
+    e
+  </span>
+  <!---->
+   
+  <!---->
+  
+</div>
+`;

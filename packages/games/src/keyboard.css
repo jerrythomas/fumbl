@@ -1,0 +1,10 @@
+/* theming */
+keyboard key-row key {
+  @apply border border-gray-500 bg-gray-500 text-white;
+}
+keyboard key-row key.disabled {
+  @apply border-none bg-gray-700 text-gray-400;
+}
+keyboard key-row key.highlighted {
+  @apply border-none bg-green-600 text-white;
+}

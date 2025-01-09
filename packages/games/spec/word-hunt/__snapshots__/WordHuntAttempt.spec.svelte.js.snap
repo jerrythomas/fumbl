@@ -1,0 +1,220 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`WordHuntAttempt > should remove a letter 1`] = `
+<div>
+  <!---->
+  <span>
+    a
+  </span>
+  <span>
+    p
+  </span>
+  <span>
+    p
+  </span>
+  <span>
+    l
+  </span>
+  <!---->
+   
+  <!---->
+  <span
+    class="h-full w-full"
+  >
+     
+  </span>
+  
+  <!---->
+  
+</div>
+`;
+
+exports[`WordHuntAttempt > should render a row with full word 1`] = `
+<div>
+  <!---->
+  <span>
+    a
+  </span>
+  <span>
+    p
+  </span>
+  <span>
+    p
+  </span>
+  <span>
+    l
+  </span>
+  <span>
+    e
+  </span>
+  <!---->
+   
+  <!---->
+  
+</div>
+`;
+
+exports[`WordHuntAttempt > should render a row with partial word 1`] = `
+<div>
+  <!---->
+  <span>
+    a
+  </span>
+  <!---->
+   
+  <!---->
+  <span
+    class="h-full w-full"
+  >
+     
+  </span>
+  <span
+    class="h-full w-full"
+  >
+     
+  </span>
+  <span
+    class="h-full w-full"
+  >
+     
+  </span>
+  <span
+    class="h-full w-full"
+  >
+     
+  </span>
+  
+  <!---->
+  
+</div>
+`;
+
+exports[`WordHuntAttempt > should render a row with partial word 2`] = `
+<div>
+  <!---->
+  <span>
+    a
+  </span>
+  <span>
+    p
+  </span>
+  <!---->
+   
+  <!---->
+  <span
+    class="h-full w-full"
+  >
+     
+  </span>
+  <span
+    class="h-full w-full"
+  >
+     
+  </span>
+  <span
+    class="h-full w-full"
+  >
+     
+  </span>
+  
+  <!---->
+  
+</div>
+`;
+
+exports[`WordHuntAttempt > should render an empty row 1`] = `
+<div>
+  <!---->
+  <!---->
+   
+  <!---->
+  <span
+    class="h-full w-full"
+  >
+     
+  </span>
+  <span
+    class="h-full w-full"
+  >
+     
+  </span>
+  <span
+    class="h-full w-full"
+  >
+     
+  </span>
+  <span
+    class="h-full w-full"
+  >
+     
+  </span>
+  <span
+    class="h-full w-full"
+  >
+     
+  </span>
+  
+  <!---->
+  
+</div>
+`;
+
+exports[`WordHuntAttempt > should update the styles on validation 1`] = `
+<div>
+  <!---->
+  <span>
+    g
+  </span>
+  <span>
+    r
+  </span>
+  <span>
+    a
+  </span>
+  <span>
+    p
+  </span>
+  <span>
+    e
+  </span>
+  <!---->
+   
+  <!---->
+  
+</div>
+`;
+
+exports[`WordHuntAttempt > should update the styles on validation 2`] = `
+<div>
+  <!---->
+  <span
+    class="absent"
+  >
+    g
+  </span>
+  <span
+    class="absent"
+  >
+    r
+  </span>
+  <span
+    class="present"
+  >
+    a
+  </span>
+  <span
+    class="present"
+  >
+    p
+  </span>
+  <span
+    class="correct"
+  >
+    e
+  </span>
+  <!---->
+   
+  <!---->
+  
+</div>
+`;
