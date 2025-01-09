@@ -1,5 +1,5 @@
 <script>
-	import { WordleGame } from '@seichou/games'
+	import { WordleGame } from '@fumbl/games'
 
 	let word = 'hello'
 	let { data } = $props()
@@ -8,5 +8,5 @@
 <WordleGame target={word} allowedWords={data.allowed}></WordleGame>
 
 <style>
-	@import '@seichou/games/styles.css';
+	@import '@fumbl/games/styles.css';
 </style>

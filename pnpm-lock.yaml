@@ -91,14 +91,14 @@ importers:
 
   packages/games:
     dependencies:
-      '@seichou/actions':
+      '@fumbl/actions':
         specifier: link:../actions
         version: link:../actions
       ramda:
         specifier: ^0.30.1
         version: 0.30.1
     devDependencies:
-      '@seichou/models':
+      '@fumbl/models':
         specifier: link:../models
         version: link:../models
       '@sveltejs/vite-plugin-svelte':
@@ -278,13 +278,13 @@ importers:
       '@rokkit/themes':
         specifier: link:/Users/Jerry/Developer/rokkit/packages/themes
         version: link:../../rokkit/packages/themes
-      '@seichou/actions':
+      '@fumbl/actions':
         specifier: link:../packages/actions
         version: link:../packages/actions
-      '@seichou/games':
+      '@fumbl/games':
         specifier: link:../packages/games
         version: link:../packages/games
-      '@seichou/models':
+      '@fumbl/models':
         specifier: link:../packages/models
         version: link:../packages/models
     devDependencies:

@@ -1,6 +1,6 @@
 import { describe, it, expect, vi } from 'vitest'
 import { render, fireEvent } from '@testing-library/svelte'
-import { WordGuessed } from '@seichou/models'
+import { WordGuessed } from '@fumbl/models'
 import WordHuntAttempt from '../../src/word-hunt/WordHuntAttempt.svelte'
 import { tick, flushSync } from 'svelte'
 

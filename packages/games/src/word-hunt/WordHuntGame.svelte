@@ -1,8 +1,8 @@
 <script>
 	import WordHuntBoard from './WordHuntBoard.svelte'
 	import GameKeyboard from '../GameKeyboard.svelte'
-	import { keyboard } from '@seichou/actions'
-	import { WordHunt } from '@seichou/models'
+	import { keyboard } from '@fumbl/actions'
+	import { WordHunt } from '@fumbl/models'
 
 	/**
 	 * @typedef {Object} Props

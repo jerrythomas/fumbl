@@ -7,7 +7,7 @@
 @import '@rokkit/themes/rokkit.css'; */
 @import '@rokkit/themes/palette.css';
 @import '@rokkit/themes/rokkit.css';
-@import '@seichou/games/styles.css';
+@import '@fumbl/games/styles.css';
 
 body {
   @apply font-body bg-neutral-base flex h-screen w-screen flex-col overflow-hidden font-extralight text-neutral-800;

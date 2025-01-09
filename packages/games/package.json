@@ -1,5 +1,5 @@
 {
-  "name": "@seichou/games",
+  "name": "@fumbl/games",
   "version": "1.0.0-next.0",
   "description": "Contains data driven components for various games.",
   "author": "Jerry Thomas <me@jerrythomas.name>",
@@ -23,7 +23,7 @@
     "release": "pnpm publish --access public"
   },
   "devDependencies": {
-    "@seichou/models": "link:../models",
+    "@fumbl/models": "link:../models",
     "@sveltejs/vite-plugin-svelte": "^5.0.1",
     "@testing-library/svelte": "^5.2.6",
     "@types/ramda": "^0.30.2",
@@ -55,7 +55,7 @@
     }
   },
   "dependencies": {
-    "@seichou/actions": "link:../actions",
+    "@fumbl/actions": "link:../actions",
     "ramda": "^0.30.1"
   }
 }

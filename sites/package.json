@@ -1,5 +1,5 @@
 {
-  "name": "@seichou/sharara",
+  "name": "@fumbl/sharara",
   "version": "1.0.0-next.0",
   "type": "module",
   "scripts": {
@@ -53,8 +53,8 @@
     "@rokkit/core": "link:/Users/Jerry/Developer/rokkit/packages/core",
     "@rokkit/icons": "link:/Users/Jerry/Developer/rokkit/packages/icons",
     "@rokkit/themes": "link:/Users/Jerry/Developer/rokkit/packages/themes",
-    "@seichou/actions": "link:../packages/actions",
-    "@seichou/games": "link:../packages/games",
-    "@seichou/models": "link:../packages/models"
+    "@fumbl/actions": "link:../packages/actions",
+    "@fumbl/games": "link:../packages/games",
+    "@fumbl/models": "link:../packages/models"
   }
 }

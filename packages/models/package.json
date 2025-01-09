@@ -1,5 +1,5 @@
 {
-  "name": "@seichou/models",
+  "name": "@fumbl/models",
   "version": "1.0.0-next.0",
   "description": "Contains models used for managing states of different games.",
   "author": "Jerry Thomas <me@jerrythomas.name>",

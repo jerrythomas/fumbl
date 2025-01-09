@@ -1,5 +1,5 @@
 <script>
-	import { WordGuessed } from '@seichou/models'
+	import { WordGuessed } from '@fumbl/models'
 	/**
 	 * @typedef {Object} Props
 	 * @property {WordGuessed} [word]

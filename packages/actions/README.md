@@ -26,7 +26,7 @@ Default configuration
 
 ```svelte
 <script>
-import { keyboard } from '@seichou/actions';
+import { keyboard } from '@fumbl/actions';
 
 function handleKey(event) {
   console.log(`${event.detail} pressed`);
@@ -40,7 +40,7 @@ function handleKey(event) {
 
 ```svelte
 <script>
-import { keyboard } from '@seichou/actions';
+import { keyboard } from '@fumbl/actions';
 function handleKey(event) {
   console.log(`${event.detail} pressed`);
 }

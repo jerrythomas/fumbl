@@ -1,5 +1,5 @@
 {
-  "name": "@seichou/actions",
+  "name": "@fumbl/actions",
   "version": "1.0.0-next.0",
   "description": "Contains generic actions that can be used in various components.",
   "author": "Jerry Thomas <me@jerrythomas.name>",
