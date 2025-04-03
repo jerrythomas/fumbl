@@ -17,10 +17,10 @@ The default behavior is to listen to keyup events.
 
 Default configuration
 
-- *add*: alphabet keys cause an `add` event
-- *submit*: enter causes a `submit` event
-- *cancel*: escape causes a `cancel` event
-- *delete*: backspace or delete causes a `delete` event
+- _add_: alphabet keys cause an `add` event
+- _submit_: enter causes a `submit` event
+- _cancel_: escape causes a `cancel` event
+- _delete_: backspace or delete causes a `delete` event
 
 ### Basic Usage
 
